@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Divyajeet
+- 👀 I’m interested in Front-End Development
+- 📚 Proficient in JavaScript,CSS,HTML and C++ Programming
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me - divy.7.jeet@gmail.com
