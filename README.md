@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyajeet
 - 👀 I’m interested in Front-End Development
-- 📚 Proficient in JavaScript,CSS,HTML and C++ Programming
+- 📚 Proficient in JavaScript,CSS,HTML,Bootstrap and C++ Programming
 - 🌱 I’m currently learning Typescript and React JS
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me - divy.7.jeet@gmail.com
