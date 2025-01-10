@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Divyajeet
-- 👀 I’m interested in Front-End Development
-- 📚 Proficient in JavaScript,CSS,HTML,Bootstrap and C++ Programming
-- 🌱 I’m currently learning Typescript and React JS
+- 👀 I’m a Fullstack developer working for a fintech.
+- 📚 Experience with client and server side development, deployment using Docker.
+- 🌱 Technical Skills  -  ReactJs, NodeJs, MongoDB, Express, Docker, JavaScript, CSS, HTML and C++ Programming.
+- 🧨 Proficient in Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me - divy.7.jeet@gmail.com
